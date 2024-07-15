@@ -1,0 +1,8 @@
+jupyter
+langchain-community
+langgraph
+langchain-anthropic
+tavily-python
+docker
+ollama
+python-dotenv
